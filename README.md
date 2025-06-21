@@ -46,9 +46,9 @@ python qwen3_0_6B.py
 - [ ] **Performance Optimizations**: Further kernel optimizations and memory efficiency improvements
 
 ### Current Support
-- ✅ **qwen3_0_6B.py**: Complete implementation for Qwen3-0.6B model
-- ✅ **Basic vLLM Features**: PagedAttention, KV caching, continuous batching
-- ✅ **Flash Attention**: Auto-detection and fallback support
+- [x] **qwen3_0_6B.py**: Complete implementation for Qwen3-0.6B model
+- [x] **Basic vLLM Features**: PagedAttention, KV caching, continuous batching
+- [x] **Flash Attention**: Auto-detection and fallback support
 
 ## 🙏 **Acknowledgments**
 
