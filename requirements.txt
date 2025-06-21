@@ -1,0 +1,12 @@
+# Core dependencies
+torch>=2.0.0
+transformers>=4.30.0
+numpy>=1.21.0
+
+# Additional utilities
+tqdm>=4.65.0
+xxhash>=3.0.0
+safetensors>=0.3.0
+
+# NVIDIA GPU monitoring
+pynvml>=11.5.0
