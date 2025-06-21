@@ -37,10 +37,6 @@ path = os.path.expanduser("~/path/to/your/qwen3model")
 python qwen3_0_6B.py
 ```
 
-### Configuration Options
-- **Model Path**: Update the `path` variable in `qwen3_0_6B.py` to point to your model directory
-- **GPU Memory**: Adjust `gpu_memory_utilization` parameter based on your GPU memory capacity
-
 ## 🚧 **TODO List**
 
 ### Upcoming Features
