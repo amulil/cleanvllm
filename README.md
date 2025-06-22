@@ -56,6 +56,10 @@ This project is inspired by and based on the concepts from [vLLM](https://github
 
 Also based on the excellent [nano-vLLM](https://github.com/GeeeekExplorer/nano-vllm) project. Thanks to the original authors for their outstanding work! 
 
+## 📚 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=amulil/cleanvllm&type=Date)](https://star-history.com/#amulil/cleanvllm&Date)
+
 ## 📊 **Sample Output**
 
 When you run the script, you'll see output similar to this:
